@@ -22,4 +22,4 @@ RStudio Shinyapps and RStudio Presenter Presentation deck
 A 5-slides presentation produced with RStudio Presenter is also included (DataPre-Processor.Rpres) and the corresponding .md and .html included.
 The custom.css file and the various .png files are included as well.
 
-You can launch the app at [here](https://m3cinc.shinyapps.io/App-3/) and view the Reproducible RStudio Presenter presentaion [here](http://rpubs.com/m3cinc/App3_Pres).
+You can launch the app [here](https://m3cinc.shinyapps.io/App-3/) and view the Reproducible RStudio Presenter presentation [here](http://rpubs.com/m3cinc/App3_Pres).
